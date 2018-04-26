@@ -6,7 +6,7 @@ header:
   teaser: assets/images/octotrash-logo.png
 sidebar:
   - title: "Type"
-    image: /assets/images/octotrash-logo.jpg
+    image: /assets/images/octotrash-logo.png
     image_alt: "logo"
     text: "Arcade VR"
   - title: "Platform(s)"
