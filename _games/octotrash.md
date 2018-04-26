@@ -3,7 +3,7 @@ title: "OctoTrash"
 excerpt: "Arcade VR game about ocean protection - Winner of the 2018 Impact Game Jam"
 header:
   image: /assets/images/octotrash-header.jpg
-  teaser: assets/images/octotrash-th.png
+  teaser: assets/images/octotrash-th.jpg
 sidebar:
   - title: "Type"
     text: "Arcade VR"
