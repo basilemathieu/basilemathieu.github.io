@@ -7,6 +7,8 @@ header:
 sidebar:
   - title: "Type"
     text: "Arcade VR"
+  - title: "Role"
+    text: Game Design - Game Developpement
   - title: "Platform(s)"
     text: "Steam VR"
 ---
