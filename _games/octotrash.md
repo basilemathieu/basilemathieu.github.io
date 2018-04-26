@@ -1,5 +1,5 @@
 ---
-title: "Crimson Smoke"
+title: "OctoTrash"
 excerpt: "Arcade VR game about ocean protection made during a game jam"
 header:
   image: /assets/images/octotrash-header.jpg
