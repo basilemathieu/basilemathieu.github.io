@@ -49,7 +49,7 @@ include: ["_pages"]
 #   - vendor/ruby/
 
 collections:
-  portfolio:
+  interactive:
     output: true
     permalink: /:collection/:path/
   games:
