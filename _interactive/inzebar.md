@@ -2,8 +2,8 @@
 title: "Inzebar"
 excerpt: "Mobile App that let you know wath happen in your favorite bar in real time"
 header:
-  image: /assets/images/octotrash-header.jpg
-  teaser: assets/images/octotrash-th.jpg
+  image: /assets/images/inzebar-header.jpg
+  teaser: assets/images/inzebar-th.jpg
 sidebar:
   - title: "Type"
     text: "Social Mobile App"
