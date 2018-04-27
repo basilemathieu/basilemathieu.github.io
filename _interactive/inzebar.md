@@ -6,11 +6,11 @@ header:
   teaser: assets/images/octotrash-th.jpg
 sidebar:
   - title: "Type"
-    text: "Arcade VR"
+    text: "Social Mobile App"
   - title: "Role"
-    text: Game Design - Game Developpement
+    text: UX Design - Developpement
   - title: "Platform(s)"
-    text: "Steam VR"
+    text: "iOS - Android"
 ---
 You are an octopus! Use your VR tentacles to collect trash that humans throw carelessly into the ocean as quickly as you can! How long can you survive the waves of trash sinking to the bottom of the ocean?
 
