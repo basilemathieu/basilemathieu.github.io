@@ -5,9 +5,9 @@ main:
   - title: "Games"
     url: /games/
     description: "Games I worked on"
-  - title: "Graphic design"
+  - title: "Interactive Design"
+    url: /interactive/
+    description: "UX and UI design and developpement"
+  - title: "Industrial design"
     url: /portfolio/
-    description: "Everything from print to UI"
-  - title: "Interactive design"
-    url: /portfolio/
-    description: "Installations and websites"
+    description: "3D modelling and rendering in industrial products creation"
