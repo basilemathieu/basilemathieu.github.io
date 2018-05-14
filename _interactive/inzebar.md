@@ -12,7 +12,9 @@ sidebar:
   - title: "Platform(s)"
     text: "iOS - Android"
 ---
-You are an octopus! Use your VR tentacles to collect trash that humans throw carelessly into the ocean as quickly as you can! How long can you survive the waves of trash sinking to the bottom of the ocean?
+Inzebar Let you find th e bars around and kwow in real time what's going on there!
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2OXN4fZvxQ0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
