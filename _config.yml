@@ -62,3 +62,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+     
+author:
+  name: Basile Mathieu 
+  avatar: asset/images/avatar.jpg
+  bio: 
+  email: basile.mathieu@edu.gobelins.fr
+  Itch.io: https://orubik.itch.io
