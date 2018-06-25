@@ -1,13 +1,1 @@
-main:
-  - title: "CV"
-    url: /CV/
-    description: "Check out and download my CV"
-  - title: "Games"
-    url: /games/
-    description: "Games I worked on"
-  - title: "Interactive Design"
-    url: /interactive/
-    description: "UX and UI design and developpement"
-  - title: "Industrial design"
-    url: /portfolio/
-    description: "3D modelling and rendering in industrial products creation"
+
